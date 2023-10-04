@@ -112,4 +112,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const mangaInputForm = document.getElementById("mangaInputForm");
   mangaInputForm.addEventListener("submit", handleFormSubmission);
+
+  //?
 });
